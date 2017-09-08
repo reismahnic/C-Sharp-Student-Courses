@@ -1,0 +1,6 @@
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 11 - Collections\Student Courses\Tech-Academy-C-Sharp-Student-Courses\StudentCourses\StudentCourses\bin\StudentCourses.dll.config
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 11 - Collections\Student Courses\Tech-Academy-C-Sharp-Student-Courses\StudentCourses\StudentCourses\bin\StudentCourses.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 11 - Collections\Student Courses\Tech-Academy-C-Sharp-Student-Courses\StudentCourses\StudentCourses\bin\StudentCourses.pdb
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 11 - Collections\Student Courses\Tech-Academy-C-Sharp-Student-Courses\StudentCourses\StudentCourses\obj\Debug\StudentCourses.csprojResolveAssemblyReference.cache
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 11 - Collections\Student Courses\Tech-Academy-C-Sharp-Student-Courses\StudentCourses\StudentCourses\obj\Debug\StudentCourses.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 11 - Collections\Student Courses\Tech-Academy-C-Sharp-Student-Courses\StudentCourses\StudentCourses\obj\Debug\StudentCourses.pdb
